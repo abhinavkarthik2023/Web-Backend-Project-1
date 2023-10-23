@@ -1,5 +1,7 @@
 # Web-Backend-Project-1
-
+Project Team Members - Mid-Term Project 7
+1. Venkata Abhinav Karthik Pulikonda (Cwid -885210294)
+2. Sai Satya Jagannadh Doddipatla (Cwid - 885177436)
 
 ## Project Description
 
