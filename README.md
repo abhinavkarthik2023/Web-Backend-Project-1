@@ -11,7 +11,7 @@ RESTful API using Flask that covers error handling, authentication, and file han
 
 Follow these steps to set up and run the Flask project with JWT implementation:
 
-1. **Clone or Download the Project**: Clone this project repository or download the project files and extract them to a directory of your choice.
+1. **Clone or Download the Project**: Clone this project repository or download the project files and extract them to a directory of your choice.Also Download the project required packages from the "requirements.txt" file and ensure you have the update python version installed before running the application.
 
 2. **Activate the Virtual Environment**: Navigate to the project directory in your terminal or bash and activate the virtual environment. You can do this by running the following command:
 
