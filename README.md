@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This is a Flask project that includes JWT (JSON Web Token) implementation. The project is written in Python version 3.11.5 and is designed to provide a template for creating a Flask-based API with JWT authentication. This readme will guide you through the process of setting up and running the project.
+RESTful API using Flask that covers error handling, authentication, and file handling. The API will have two types of routes - public routes that can be accessed without authentication and protected admin routes that require authentication.A Flask project that includes JWT (JSON Web Token) implementation. The project is written in Python version 3.11.5 and is designed to provide a template for creating a Flask-based API with JWT authentication. This readme will guide you through the process of setting up and running the project.
 
 ## Getting Started
 
